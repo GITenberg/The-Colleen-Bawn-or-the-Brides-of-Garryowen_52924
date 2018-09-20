@@ -1,0 +1,35 @@
+_repo: The-Colleen-Bawn-or-the-Brides-of-Garryowen_52924
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Griffin, Gerald
+    birthdate: 1803
+    deathdate: 1840
+    gutenberg_agent_id: '694'
+    url: http://www.gutenberg.org/2009/agents/694
+  - agent_name: Boucicault, Dion
+    aliases:
+    - Boursecault, Dion L. (Dion Lardner)
+    - Bourcicault, Dionysius Lardner
+    - Borcicault, Dion
+    - Boursiquot, Dionysus Lardner
+    birthdate: 1820
+    deathdate: 1890
+    gutenberg_agent_id: '1272'
+    url: http://www.gutenberg.org/2009/agents/1272
+    wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
+description: Based on Gerald Griffin's novel, "The collegians".
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish drama -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The Colleen Bawn; or, the Brides of Garryowen
+url: http://www.gutenberg.org/ebooks/52924
