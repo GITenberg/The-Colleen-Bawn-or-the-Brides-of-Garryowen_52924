@@ -1,5 +1,8 @@
 _repo: The-Colleen-Bawn-or-the-Brides-of-Garryowen_52924
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52924-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Griffin, Gerald
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1272
     wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
 description: Based on Gerald Griffin's novel, "The collegians".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52924#The-Colleen-Bawn-or-the-Brides-of-Garryowen
 gutenberg_issued: '2016-08-29'
 gutenberg_type: Text
 identifiers:
